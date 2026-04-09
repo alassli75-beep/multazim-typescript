@@ -1,6 +1,6 @@
 {
   "name": "multazim",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The official TypeScript library for the Multazim API",
   "author": "Multazim <>",
   "types": "dist/index.d.ts",
